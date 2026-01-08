@@ -8,5 +8,6 @@ services:
     envVars:
       - key: PYTHON_VERSION
         value: 3.12.0
-    autoDeploy: true
+    autoDeploy: false
+
     plan: free
